@@ -1,3 +1,5 @@
+Following is the license for all the code written by AlphaGenrals Team(You can see the writter at the head of a file, and notice that all the released zip files are produced by the code in this repository, so this license is also applicable for them):
+
 MIT License
 
 Copyright (c) 2022 Zhengwen Zhang
@@ -19,3 +21,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+We used and changed some code of https://github.com/tensorforce/tensorforce. For this type of code, we claimed its author at the head. This is the license of them: https://github.com/tensorforce/tensorforce/blob/master/LICENSE.
+
+We are sorry for all the potential mistakes on copyright issues. We know nothing on copyright. Please embrace our mistakes.
